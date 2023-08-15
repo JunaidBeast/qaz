@@ -1,0 +1,2 @@
+# qaz
+pny trainings website
